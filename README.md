@@ -12,7 +12,7 @@ Follow these steps to set up the project on your local device:
  
 3. Open a new terminal.
 
-4. Change the directory to Voice-Reco:  `cd Voice-Reco/Voice Reco`
+4. Change the directory to Voice-Reco:  `cd Voice-Reco`
 
 5. Install the necessary dependencies: `npm install`
 
